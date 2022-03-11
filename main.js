@@ -2,6 +2,7 @@
 //@prepros-append forms.js
 //@prepros-append script.js
 //@prepros-append jq-end.js
+//some changes
 $(document).ready(function() {
 		var w=$(window).outerWidth();
 		var h=$(window).outerHeight();
